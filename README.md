@@ -16,7 +16,7 @@ LOSER-MD
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=asvfskadxxc-png&label=Profile+Views&color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/stars/asvfskadxxc-png/LOSER-MD?color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/forks/asvfskadxxc-png/LOSER-M?color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/repo-size/asvfskadxxc-png/LOSER-M?color=ff00ff&style=flat-square" />
@@ -47,7 +47,7 @@ LOSER-MD
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="[https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg](https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
