@@ -73,7 +73,7 @@ cmd({
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/80ntso.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' },
                 caption: menuText,
                 contextInfo: {
                     mentionedJid: [m.sender],
