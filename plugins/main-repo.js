@@ -13,7 +13,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/muzii-523/MUZAMMILMD';
+    const githubRepoURL = 'https://github.com/asvfskadxxc-png/LOSER-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -40,8 +40,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363403831162407@newsletter',
-                    newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                    newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                    newsletterName: 'LOSER-MD',
                     serverMessageId: 143
                 }
             }
@@ -58,8 +58,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363403831162407@newsletter',
-                    newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                    newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                    newsletterName: 'LOSER-MD',
                     serverMessageId: 143
                 }
             }
