@@ -66,22 +66,22 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* 𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* LOSER-MD-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
       `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [ᗰᑌᘔᗩᗰᗰIᒪ_ᗰᗪ](https://github.com/muzii-523)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://files.catbox.moe/80ntso.jpg' },
+      image: { url: 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363403831162407@newsletter',
-          newsletterName: 'ᗰᑌᘔᗩᗰᗰIᒪ_ᗰᗪ',
+          newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+          newsletterName: 'LOSER-MD',
           serverMessageId: 143
         }
       }
