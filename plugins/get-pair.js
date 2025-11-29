@@ -5,7 +5,7 @@ cmd({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for ARSLAN-MD bot",
+    desc: "Get pairing code for LOSER-MD bot",
     category: "download",
     use: ".pair 923237045XXX",
     filename: __filename
@@ -27,7 +27,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿 PAIRING COMPLETED*";
+        const doneMessage = "> *LOSER-MD PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
