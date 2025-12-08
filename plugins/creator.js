@@ -13,9 +13,9 @@ async (conn, mek, m, { from, sender, reply }) => {
     try {
         // Owner information (you can modify these values)
         const ownerInfo = {
-            name: "LOSER-MD",
-            number: "+923487398245",
-            photo: "https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg",
+            name: "FAIZAN-F-MD",
+            number: "+923222818553",
+            photo: "https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg",
             bio: "The creator of this amazing bot"
         };
 
@@ -48,7 +48,7 @@ async (conn, mek, m, { from, sender, reply }) => {
     } catch (e) {
         console.error("Creator Command Error:", e);
         // Fallback text if image fails
-        await reply(`👑 *Creator Info*\n\nName: LOSER-MD\nNumber: +923487398245\n\nContact for bot support!`);
+        await reply(`👑 *Creator Info*\n\nName: FAIZAN-F-MD\nNumber: +923222818553\n\nContact for bot support!`);
     }
 });
 
