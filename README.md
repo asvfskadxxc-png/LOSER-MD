@@ -26,26 +26,6 @@ FAIZAN-F-MD
 
 ---
 
-> **Deploy New Version `5.0.0`**  
-
----
-
-## DEPLOY FREE ON VPS
-
-<p align="center"><strong>Limited Server 💜</strong></p>
-
-<p align="center">
-  <a href="https://jawadtech-vps.onrender.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🚀 Deploy_Free_On_VPS-ff0000?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Deploy Button"
-      width="280"
-    >
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
@@ -91,7 +71,7 @@ FAIZAN-F-MD
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="(https://loser-seeion.onrender.com)/" target="_blank">
+    <a href="https://loser-seeion.onrender.com" target="_blank">
       <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
@@ -100,7 +80,7 @@ FAIZAN-F-MD
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>FAIZAN-F-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 
 <div align="center">
@@ -129,7 +109,7 @@ FAIZAN-F-MD
 <table align="center">
   <tr>
     <td>
-      <a href="https://jawadtech-vps.onrender.com" target="_blank">
+      <a href="https://loser-seeion.onrender.com" target="_blank">
         <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
@@ -165,7 +145,7 @@ FAIZAN-F-MD
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
+      <a href="https://github.com/asvfskadxxc-png/LOSER-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -175,7 +155,7 @@ FAIZAN-F-MD
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHANX-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/asvfskadxxc-png/LOSER-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -213,7 +193,7 @@ FAIZAN-F-MD
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBrwbOHltYA4bNx0Q2u" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
@@ -222,12 +202,12 @@ FAIZAN-F-MD
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS FIAZAN-F-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
-<a href="https://github.com/JawadYT36" target="_blank">
+<a href="https://github.com/asvfskadxxc-png" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
 </a>
 
@@ -287,5 +267,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/qasifking/LOSER-MD">LOSER-MD</a>
+  Made with ❤️ by <a href="https://github.com/asvfskadxxc-png/FIAZAN-F-MD">LOSER-MD</a>
 </p>
