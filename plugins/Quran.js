@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const { cmd, commands } = require('../command');
 const { fetchJson } = require('../lib/functions');
 // Fix: require the translate function correctly (module exports a function)
-const translate = require('@vitalets/google-translate-api');
+const translate = require("@vitalets/google-translate-api");
 const axios = require('axios')
 
 cmd({
