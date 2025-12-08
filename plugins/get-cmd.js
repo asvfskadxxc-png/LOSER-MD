@@ -43,15 +43,15 @@ Powered By *๓นຊค๓๓il_๓໓* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url:`https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },  // Image URL
+            image: { url:`https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
-                    newsletterName: 'LOSER-MD',
+                    newsletterJid: '120363422488713927@newsletter',
+                    newsletterName: 'FAIZAN-F-MD',
                     serverMessageId: 143
                 }
             }
