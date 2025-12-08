@@ -6,7 +6,7 @@ const axios = require('axios');
 
 cmd({
     pattern: "menu",
-    desc: "Show LOSER-MD Premium Menu",
+    desc: "Show FAIZAN-F-MD Premium Menu",
     category: "main", 
     react: "💫",
     filename: __filename
@@ -17,7 +17,7 @@ cmd({
         
         // 💎 MUZAMMIL-MD PREMIUM DESIGN WITH DIFFERENT SYMBOLS 💎
         const menuCaption = `
-╭━━━〔 *LOSER-MD* 〕━━━┈⊷
+╭━━━〔 * FAIZAN-F-MD * 〕━━━┈⊷
 ┃✦╭──────────────
 ┃✦│ 👑 Owner : **LOSER-MD**
 ┃✦│ ⚡ Prefix : [ . ]
@@ -55,10 +55,10 @@ cmd({
 Reply with number 1-10 to open category menu
 Example: Reply "5" for AI Menu
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD  Official ❣️*
         `.trim();
 
-        // 💎 MUZAMMIL-MD MENU DATA WITH DIFFERENT SYMBOLS 💎
+        // 💎 FAIZAN-F-MD  MENU DATA WITH DIFFERENT SYMBOLS 💎
         const menuData = {
             '1': {
                 title: "❶ *ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ*",
@@ -91,7 +91,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • wallpaper [query]
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD  Official ❣️*
                 `
             },
             '2': {
@@ -125,7 +125,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • groupname [text]
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '3': {
@@ -159,7 +159,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • laugh @user
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '4': {
@@ -192,7 +192,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • ping
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '5': {
@@ -225,7 +225,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • bard [query]
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '6': {
@@ -259,7 +259,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • wallanime
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '7': {
@@ -291,7 +291,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • toaudio [video]
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '8': {
@@ -325,7 +325,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • google [query]
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '9': {
@@ -360,7 +360,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • wave @user
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             },
             '10': {
@@ -394,7 +394,7 @@ Example: Reply "5" for AI Menu
 ┃✦│ • Memory: Optimized
 ┃✦╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LOSER-MD Official ❣️*
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD Official ❣️*
                 `
             }
         };
@@ -405,8 +405,8 @@ Example: Reply "5" for AI Menu
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
-                newsletterName: "LOSER-MD",
+                newsletterJid: '120363422488713927@newsletter',
+                newsletterName: "FAIZAN-F-MD",
                 serverMessageId: 143
             }
         };
@@ -418,7 +418,7 @@ Example: Reply "5" for AI Menu
                 from,
                 {
                     image: { 
-                        url: config.MENU_IMAGE_URL || 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' 
+                        url: config.MENU_IMAGE_URL || 'https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg' 
                     },
                     caption: menuCaption,
                     contextInfo: contextInfo,
@@ -459,7 +459,7 @@ Example: Reply "5" for AI Menu
                             senderID,
                             {
                                 image: { 
-                                    url: config.MENU_IMAGE_URL || 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' 
+                                    url: config.MENU_IMAGE_URL || 'https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg' 
                                 },
                                 caption: selectedMenu.content,
                                 contextInfo: contextInfo
@@ -500,7 +500,7 @@ Example: Reply "5" for AI Menu
         await conn.sendMessage(
             from,
             { 
-                text: `🌀 *sʏsᴛᴇᴍ ʙᴜsʏ* 🌀\n\LOSER-MD Menu is currently optimizing...\n\nPlease try again in few seconds!\n\n⚡ Powered by: LOSER-MD` 
+                text: `🌀 *sʏsᴛᴇᴍ ʙᴜsʏ* 🌀\n\FAIZAN-F-MD Menu is currently optimizing...\n\nPlease try again in few seconds!\n\n⚡ Powered by: LOSER-MD` 
             },
             { quoted: mek }
         );
