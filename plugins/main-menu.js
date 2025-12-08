@@ -346,14 +346,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterJid: '120363422488713927@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
