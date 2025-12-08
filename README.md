@@ -47,7 +47,7 @@ FAIZAN-F-MD
 ---
 
 <div align="center">
-  <img src="(https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
