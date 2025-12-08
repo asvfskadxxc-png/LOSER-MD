@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/muzii-523/MUZAMMILMD/main/data/version.json';
+    const rawVersionUrl = 'https://github.com/asvfskadxxc-png/LOSER-MD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -73,15 +73,15 @@ Use *.update* to update.`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' },
+      image: { url: 'https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
-          newsletterName: 'LOSER-MD',
+          newsletterJid: '120363422488713927@newsletter',
+          newsletterName: 'FAIZAN-F-MD',
           serverMessageId: 143
         }
       }
