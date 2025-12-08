@@ -80,7 +80,7 @@ cmd({
 
         const successMsg = "✅ Successfully Removed User As Temporary Owner";
         await conn.sendMessage(from, {
-            image: { url: "https://files.catbox.moe/80ntso.jpg" },
+            image: { url: "https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg" },
             caption: successMsg
         }, { quoted: mek });
     } catch (err) {
@@ -114,7 +114,7 @@ cmd({
         });
 
         await conn.sendMessage(from, {
-            image: { url: "https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg" },
+            image: { url: "https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg" },
             caption: listMessage
         }, { quoted: mek });
     } catch (err) {
