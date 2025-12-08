@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Rolex MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY * 𝆺𝅥𝆊𝆬᰻᰻𝁘͢ϝʌ𝛊᷍ᴢ𝛌ɳ͓ 𝐌ᴅ 𝁒᰻᰻𝆺𝅥𝆊𝆬 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -31,29 +31,29 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝙍𝙤𝙡𝙚𝙭 𝙓 𝙈𝘿",
+BOT_NAME: process.env.BOT_NAME || "* 𝆺𝅥𝆊𝆬᰻᰻𝁘͢ϝʌ𝛊᷍ᴢ𝛌ɳ͓ 𝐌ᴅ 𝁒᰻᰻𝆺𝅥𝆊𝆬",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Rolex X MD",
+STICKER_NAME: process.env.STICKER_NAME || "* 𝆺𝅥𝆊𝆬᰻᰻𝁘͢ϝʌ𝛊᷍ᴢ𝛌ɳ͓ 𝐌ᴅ 𝁒᰻᰻𝆺𝅥𝆊𝆬",
 // type sticker pack name 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "93766100863",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923222818553",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "*𝙍𝙤𝙡𝙚𝙭 𝙓 𝙈𝘿*",
+OWNER_NAME: process.env.OWNER_NAME || "** 𝆺𝅥𝆊𝆬᰻᰻𝁘͢ϝʌ𝛊᷍ᴢ𝛌ɳ͓ 𝐌ᴅ 𝁒᰻᰻𝆺𝅥𝆊𝆬*",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ManiMD Official ❣️*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ * 𝆺𝅥𝆊𝆬᰻᰻𝁘͢ϝʌ𝛊᷍ᴢ𝛌ɳ͓ 𝐌ᴅ 𝁒᰻᰻𝆺𝅥𝆊𝆬 Official ❣️*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/VpWpLYgC/tourl-1763379935053.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar ⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
@@ -73,7 +73,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "201116400502",
+DEV: process.env.DEV || "923222818553",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
