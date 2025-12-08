@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
-LOSER-MD
+FAIZAN-F-MD
 </h1>
 
 ---
@@ -10,7 +10,7 @@ LOSER-MD
 
 ---
 
-<h2 align="center">📊 LOSER-MD Analytics </h2> 
+<h2 align="center">📊 FAIZAN-F-MD Analytics </h2> 
 
 ---
 
@@ -47,7 +47,7 @@ LOSER-MD
 ---
 
 <div align="center">
-  <img src="(https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="(https://image2url.com/images/1765179852563-98dac8d0-99cd-4f42-b768-69f20b25ed3d.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ LOSER-MD
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="https://khanmd-pair.onrender.com/" target="_blank">
+    <a href="(https://loser-seeion.onrender.com)/" target="_blank">
       <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
@@ -187,7 +187,7 @@ LOSER-MD
 
 ---
 
-## ✨ KHAN-MD Features
+## ✨ FAIZAN-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
