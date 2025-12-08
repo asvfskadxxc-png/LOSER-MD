@@ -94,7 +94,7 @@ cmd({
       'video': {
         'url': _0x5f2691
       },
-      'caption': "Powered By 𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿 Official"
+      'caption': "Powered By FAIZAN-F-MD Official"
     }, {
       'quoted': _0x40711d
     });
