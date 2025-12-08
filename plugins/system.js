@@ -47,8 +47,8 @@ async (conn, mek, m, { from, reply }) => {
         const botInfo = {
             name: config.BOT_NAME || "YourBot",
             version: config.VERSION || "5.0.0",
-            creator: "𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿 👑",
-            contact: "+923142854207"
+            creator: "FAIZAN-F-MD 👑",
+            contact: "+923222818553"
         };
 
         // Generate a beautiful system info message
