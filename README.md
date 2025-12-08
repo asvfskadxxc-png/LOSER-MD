@@ -267,5 +267,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/asvfskadxxc-png/FIAZAN-F-MD">LOSER-MD</a>
+  Made with ❤️ by <a href="https://github.com/asvfskadxxc-png/FIAZAN-F-MD">FAIZAN-F-MD</a>
 </p>
