@@ -254,7 +254,7 @@ cmd({
 ┃ 📅 *Updated On:* ${app.updated}
 ┃ 👨‍💻 *Developer:* ${app.developer.name}
 ╰━━━━━━━━━━━━━━━┈⊷
-🔗 **© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ๓นຊค๓๓il_๓໓ мυℓтιρℓє ρσωєяƒυℓ ωнαтѕαρρ вσт ❣️*`;
+🔗 **© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD мυℓтιρℓє ρσωєяƒυℓ ωнαтѕαρρ вσт ❣️*`;
 
     await conn.sendMessage(from, { react: { text: "⬆️", key: m.key } });
 
@@ -305,7 +305,7 @@ cmd({
         document: { url: downloadUrl },
         mimetype: response.data.result.mimetype,
         fileName: response.data.result.fileName,
-        caption: "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ χ LOSER-MD ❣️*"
+        caption: "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN-F-MD ❣️*"
       }, { quoted: m });
 
       await conn.sendMessage(from, { react: { text: "✅", key: m.key } });
